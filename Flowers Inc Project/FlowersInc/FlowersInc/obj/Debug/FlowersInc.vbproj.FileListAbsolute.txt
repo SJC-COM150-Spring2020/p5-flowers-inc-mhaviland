@@ -1,0 +1,14 @@
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe.config
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbprojResolveAssemblyReference.cache
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Form1.resources
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Form2.resources
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Resources.resources
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.vbproj.GenerateResource.Cache
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.xml
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\bin\Debug\FlowersInc.exe
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\bin\Debug\FlowersInc.pdb
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\bin\Debug\FlowersInc.xml
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.exe
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.pdb
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Form3.resources
+C:\Users\Meagan\Documents\Flowers Inc Project\FlowersInc\FlowersInc\obj\Debug\FlowersInc.Form4.resources
